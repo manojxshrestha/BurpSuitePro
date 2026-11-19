@@ -1,4 +1,4 @@
-git clone https://github.com/xiv3r/Burpsuite-Professional.git 
+git clone https://github.com/manojxshrestha/Burpsuite-Professional.git 
 cd Burpsuite-Professional
 
 
