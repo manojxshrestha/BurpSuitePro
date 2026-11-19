@@ -110,7 +110,7 @@ NOTE: `loader.jar` is symlinked to `burpsuite.jar` so burpsuite recognizes the l
 
 # $${\color{magenta}Windows-Installation}$$
  
-- Make a `Burp` directory name in `C Drive` for faster access.
+- Make a `BurpSuitePro` directory name in `C Drive` for faster access.
 
 - Download [install.ps1](https://codeload.github.com/manojxshrestha/BurpSuitePro/zip/refs/heads/main) and extract move the file inside to `C:\BurpSuitePro`
 
