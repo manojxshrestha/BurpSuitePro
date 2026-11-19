@@ -6,13 +6,13 @@ sudo apt update
 sudo apt install git wget openjdk-21-jre -y
 
 # Cloning
-git clone https://github.com/manojxshrestha/Burpsuite-Professional.git 
-cd Burpsuite-Professional
+git clone https://github.com/manojxshrestha/BurpSuitePro.git 
+cd BurpSuitePro
 
 # Download Burpsuite Professional
 echo "Downloading Burp Suite Professional Latest..."
 version=2026
-wget -O burpsuite_pro_v$version.jar https://github.com/manojxshrestha/Burpsuite-Professional/releases/download/burpsuite-pro/burpsuite_pro_v$version.jar
+wget -O burpsuite_pro_v$version.jar https://github.com/manojxshrestha/BurpSuitePro/releases/download/burpsuite-pro/burpsuite_pro_v$version.jar
 
 # Execute Key Generator
 echo "Starting Key loader.jar..."

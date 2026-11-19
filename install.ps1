@@ -54,7 +54,7 @@ echo "`nBurp-Suite-Pro.vbs file is created."
 # Download loader if it not exists
 if (!(Test-Path loader.jar)){
     echo "`nDownloading Loader ...."
-    Invoke-WebRequest -Uri "https://github.com/manojxshrestha/Burpsuite-Professional/raw/refs/heads/main/loader.jar" -OutFile loader.jar
+    Invoke-WebRequest -Uri "https://github.com/manojxshrestha/BurpSuitePro/raw/refs/heads/main/loader.jar" -OutFile loader.jar
     echo "`nLoader is Downloaded"
 }else{
     echo "`nLoader is already Downloaded"

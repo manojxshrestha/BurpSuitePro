@@ -1,5 +1,5 @@
-git clone https://github.com/manojxshrestha/Burpsuite-Professional.git 
-cd Burpsuite-Professional
+git clone https://github.com/manojxshrestha/BurpSuitePro.git 
+cd BurpSuitePro
 
 
 # Download Burpsuite Professional
